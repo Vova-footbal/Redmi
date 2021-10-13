@@ -1,0 +1,11 @@
+x=int(input("x="))
+y=int(input("y="))
+c=x+y
+g=x/y
+v=x*y
+r=x-y
+print("Результат",c)
+print("Результат",g)
+print("Результат",v)
+print("Результат",r)
+input()

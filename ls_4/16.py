@@ -1,0 +1,11 @@
+arr=[]
+arr.append("Masha")
+arr.append("Den")
+arr.append("Liza")
+arr.append("Sasha")
+arr.append("Dasha")
+print(arr)
+arr.insert(1 , "Banan")
+print(arr)
+a = len(arr)
+print(a)
